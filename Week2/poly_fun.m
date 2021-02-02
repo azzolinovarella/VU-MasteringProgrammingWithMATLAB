@@ -1,4 +1,3 @@
-function fh = poly_fun(coef)
-    if 
-
+function fh = poly_fun(coeff)
+  
 end
